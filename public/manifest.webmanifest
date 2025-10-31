@@ -1,0 +1,14 @@
+{
+  "name": "Smart Attendance",
+  "short_name": "Attendance",
+  "description": "Clock-In/Out for Smart Systems staff",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#043D8B",
+  "background_color": "#8ED8FC",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
